@@ -28,7 +28,7 @@
 			value="jdbc:mysql://localhost:3306/db_studentInfo">
 		</property>
 		<property name="username" value="root"></property>
-		<property name="password" value="alexander"></property>
+		<property name="password" value="123456"></property>
 	</bean>
 	
 	<bean id="sessionFactory" class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
